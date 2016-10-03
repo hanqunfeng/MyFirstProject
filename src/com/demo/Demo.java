@@ -17,5 +17,6 @@ public class Demo {
             System.out.println("s = " + s);
 
         }
+        System.out.println(123);
     }
 }
